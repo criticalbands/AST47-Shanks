@@ -1,1 +1,1 @@
-# Calvanic-Control-SET-SIM-Processeor-3.0
+Code for my new more compact motor driver using L9110S drivers. Created by compiling my old code with an example I found that uses the L9110’s so It may not be as elegant but it works enough for what I want it to do. Original code is here https://www.electroschematics.com/electric-lazy-susan/
