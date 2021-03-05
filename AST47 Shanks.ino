@@ -36,7 +36,7 @@ void setup() {
   pinMode(C1B,   OUTPUT);
   pinMode(D1A,   OUTPUT);
   pinMode(D1B,   OUTPUT);
-  // not sure if I need this:
+  
   pinMode(A0, INPUT_PULLUP);
   pinMode(A1, INPUT_PULLUP);
   pinMode(A2, INPUT_PULLUP);
